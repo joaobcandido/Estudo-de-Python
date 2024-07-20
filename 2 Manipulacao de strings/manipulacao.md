@@ -1,0 +1,1 @@
+# Manipulação de strings refere-se ao processo de modificar, analisar e trabalhar com cadeias de caracteres em programação. Strings são sequências de caracteres, como palavras ou frases, e são um tipo de dado comum em muitas linguagens de programação. 
